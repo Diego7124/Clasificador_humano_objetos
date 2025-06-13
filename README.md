@@ -37,8 +37,8 @@ cd Deteccion_Humanos
 
 --- 
 
-descarga el dataset con los datos de entrenamiento:
-[DropBox]('https://www.dropbox.com/scl/fi/k8gj1ngrwtniqn4mn5de6/dataset.rar?rlkey=kprsqiz26gkwl5wmi0kweiyj0&st=6er60v02&dl=0')
+Puedes descargar el dataset desde [este enlace de Dropbox](https://www.dropbox.com/scl/fi/k8gj1ngrwtniqn4mn5de6/dataset.rar?rlkey=kprsqiz26gkwl5wmi0kweiyj0&st=6er60v02&dl=0).
+
 
 Pasos
 ## 1. Descargar el archivo
